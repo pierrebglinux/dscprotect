@@ -1,4 +1,4 @@
-# 🛡️ DSC Protect
+# 🛡️ DSC Protect (pierrebglinux)
 > **Un bien commun pour sécuriser Discord — Archive Ouverte.**
 
 **DSC Protect** était un bot Discord développé en **TypeScript**. Ce code est désormais offert à la communauté en tant que ressource libre. Il n'appartient à personne et est mis à disposition pour que chacun puisse s'en servir de base pour protéger ses propres communautés.
