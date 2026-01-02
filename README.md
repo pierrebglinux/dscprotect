@@ -18,7 +18,7 @@ En choisissant cette licence, nous garantissons que :
 ## ⚡ Caractéristiques du Bot
 
 * **Protection Anti-Raid :** Détection et blocage automatique des attaques.
-* **Anti spam avancé :** Gardez une trace de tout ce qui se passe sur votre serveur.
+* **Anti spam avancé :** Une forte protection contre le spam.
 * **Commandes Slash (/) :** Interface moderne et intuitive pour les modérateurs.
 
 ## 🛠️ Déploiement (Auto-hébergement)
