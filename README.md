@@ -25,10 +25,6 @@ En choisissant cette licence, nous garantissons que :
 
 Si vous souhaitez faire tourner votre propre instance de **DSC Protect** :
 
-1. **Prérequis :**
+**Prérequis :**
    * [Node.js] installé sur votre machine.
    * Un compte sur le [Discord Developer Portal](https://discord.com/developers/applications).
-
-2. **Récupération du code :**
-   ```bash
-   git clone [https://github.com/votre-compte/dscprotect.git](https://github.com/votre-compte/dscprotect.git)
